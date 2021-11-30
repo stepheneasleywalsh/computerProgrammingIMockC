@@ -1,2 +1,2 @@
 # Mock C
-## Hard
+## Practice Exam for Computer Programming I
